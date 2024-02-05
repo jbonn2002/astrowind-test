@@ -115,7 +115,7 @@ export const headerData = {
       href: '#',
     },
   ],
-  actions: [{ text: 'Contact', href: '/', target: '_blank' }],
+  actions: [{ text: 'Contact', href: 'tel: 714-334-4456', target: '_blank', icon: 'tabler:phone' }],
 };
 
 export const footerData = {
