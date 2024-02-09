@@ -1,5 +1,5 @@
 site:
-  name: Socal Marine
+  name: Socal Marine Services
   site: 'https://astrowind.vercel.app'
   base: '/'
   trailingSlash: false
@@ -9,14 +9,14 @@ site:
 # Default SEO metadata
 metadata:
   title:
-    default: Socal Marine
+    default: Socal Marine Services
     template: '%s — Socal Marine'
   description: "\U0001F680 Suitable for Startups, Small Business, Sass Websites, Professional Portfolios, Marketing Websites, Landing Pages & Blogs."
   robots:
     index: true
     follow: true
   openGraph:
-    site_name: Socal Marine
+    site_name: Socal Marine Services
     images:
       - url: '~/assets/images/default.png'
         width: 1200
