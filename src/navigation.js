@@ -115,10 +115,10 @@ export const headerData = {
         },
       ],
     },
-    {
-      text: 'Widgets',
-      href: '#',
-    },
+    // {
+    //   text: 'Widgets',
+    //   href: '#',
+    // },
   ],
   actions: [{ text: 'Contact', href: 'tel: 714-334-4456', target: '_blank', icon: 'tabler:phone' }],
 };
