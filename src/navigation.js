@@ -175,9 +175,13 @@ export const footerData = {
     { text: 'Privacy Policy', href: getPermalink('/privacy') },
   ],
   socialLinks: [
-    { ariaLabel: 'X', icon: 'tabler:brand-x', href: '#' },
-    { ariaLabel: 'Instagram', icon: 'tabler:brand-instagram', href: '#' },
-    { ariaLabel: 'Facebook', icon: 'tabler:brand-facebook', href: '#' },
+    { ariaLabel: 'X', icon: 'tabler:brand-x', href: 'https://twitter.com/' },
+    {
+      ariaLabel: 'Instagram',
+      icon: 'tabler:brand-instagram',
+      href: 'https://www.instagram.com/socal_marineservices/?igshid=YmMyMTA2M2Y%3D',
+    },
+    { ariaLabel: 'Facebook', icon: 'tabler:brand-facebook', href: 'https://www.facebook.com/' },
     // { ariaLabel: 'RSS', icon: 'tabler:rss', href: getAsset('/rss.xml') },
     // { ariaLabel: 'Github', icon: 'tabler:brand-github', href: 'https://github.com/onwidget/astrowind' },
   ],
