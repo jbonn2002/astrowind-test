@@ -175,14 +175,14 @@ export const footerData = {
     { text: 'Privacy Policy', href: getPermalink('/privacy') },
   ],
   socialLinks: [
+    { ariaLabel: 'Telephone', icon: 'tabler:phone', href: 'tel: 714-334-4456' },
+    { ariaLabel: 'Mail', icon: 'tabler:mail', href: 'mailto:jbonn2002@gmail.com' },
     {
       ariaLabel: 'Instagram',
       icon: 'tabler:brand-instagram',
       href: 'https://www.instagram.com/socal_marineservices/?igshid=YmMyMTA2M2Y%3D',
     },
     { ariaLabel: 'Facebook', icon: 'tabler:brand-facebook', href: 'https://www.facebook.com/' },
-    { ariaLabel: 'Telephone', icon: 'tabler:phone', href: 'tel: 714-334-4456' },
-    { ariaLabel: 'Mail', icon: 'tabler:mail', href: 'mailto:jbonn2002@gmail.com' },
     // { ariaLabel: 'RSS', icon: 'tabler:rss', href: getAsset('/rss.xml') },
     // { ariaLabel: 'Github', icon: 'tabler:brand-github', href: 'https://github.com/onwidget/astrowind' },
   ],
