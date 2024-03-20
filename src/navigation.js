@@ -175,7 +175,6 @@ export const footerData = {
     { text: 'Privacy Policy', href: getPermalink('/privacy') },
   ],
   socialLinks: [
-    { ariaLabel: 'X', icon: 'tabler:brand-x', href: 'https://twitter.com/' },
     {
       ariaLabel: 'Instagram',
       icon: 'tabler:brand-instagram',
@@ -183,6 +182,7 @@ export const footerData = {
     },
     { ariaLabel: 'Facebook', icon: 'tabler:brand-facebook', href: 'https://www.facebook.com/' },
     { ariaLabel: 'Telephone', icon: 'tabler:phone', href: 'tel: 714-334-4456' },
+    { ariaLabel: 'Mail', icon: 'tabler:mail', href: 'mailto:jbonn2002@gmail.com' },
     // { ariaLabel: 'RSS', icon: 'tabler:rss', href: getAsset('/rss.xml') },
     // { ariaLabel: 'Github', icon: 'tabler:brand-github', href: 'https://github.com/onwidget/astrowind' },
   ],
