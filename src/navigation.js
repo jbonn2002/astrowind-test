@@ -175,8 +175,8 @@ export const footerData = {
     { text: 'Privacy Policy', href: getPermalink('/privacy') },
   ],
   socialLinks: [
-    { ariaLabel: 'Telephone', icon: 'tabler:phone', href: 'tel: 714-334-4456' },
     { ariaLabel: 'Mail', icon: 'tabler:mail', href: 'mailto:jbonn2002@gmail.com' },
+    { ariaLabel: 'Telephone', icon: 'tabler:phone', href: 'tel: 714-334-4456' },
     {
       ariaLabel: 'Instagram',
       icon: 'tabler:brand-instagram',
